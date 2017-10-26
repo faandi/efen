@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Efen/Efen.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Efen/ProgramGeo.cs">
+    <Files>
+      <File FileName="Efen/ProgramGeo.cs" Line="65" Column="22" />
+      <File FileName="Efen.Kern/FileWalker.cs" Line="63" Column="26" />
+      <File FileName="Efen.Kern/TaskExecutor.cs" Line="16" Column="3" />
+      <File FileName="Efen.Kern/Filters/SearchPatternFileFilter.cs" Line="1" Column="1" />
+      <File FileName="Efen.Kern/Filters/FileExistsFileFilter.cs" Line="1" Column="1" />
+      <File FileName="Efen.Tests/FileWalkerTests.cs" Line="12" Column="4" />
+      <File FileName="Efen/Program_Test.cs" Line="1" Column="1" />
+      <File FileName="Efen.Kern/Tasks/TextFileWriterTask.cs" Line="41" Column="18" />
+      <File FileName="Efen.Kern/Tasks/ConsoleWriterTask.cs" Line="38" Column="38" />
+      <File FileName="Efen.Kern/Task.cs" Line="22" Column="31" />
+      <File FileName="Efen.Kern/Filters/AttributeFileFilter.cs" Line="1" Column="1" />
+      <File FileName="Efen.Kern/Configuration.cs" Line="10" Column="23" />
+      <File FileName="Efen.Kern/FileErrorEventArgs.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

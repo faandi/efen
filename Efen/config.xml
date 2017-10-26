@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<config>
+	<filelist basepath="" errorrefid="filesreaderror">
+		<filelist buffer="100">
+			<filter type=""></filter>
+			<filter type=""></filter>
+			<filelist>
+				<filter type="" pattern="" />
+			</filelist>
+		</filelist>
+		<filelist matchrefid="mxds" nomatchrefid="nomxds">
+			<filter type="" pattern=""></filter>
+		</filelist>
+	</filelist>
+	<tasks>
+		<task type="" filelistref="mxds" />
+		<task type="" filelistref="errorgettingfile" />
+		<task type="" filelistref="" />
+	</tasks>
+</config>
+
+<!--
+task types:
+TextWriterTask
+CsvWriterTask
+SolrIndexTask (post)
+SolrIndexTask (mxd)
+CommandTask
+
+filter types:
+AttributeFilter (date, access rights, ...)
+PatternFilter
+ContentFilter
+GeodataFilter (=ContentFilter ?)
+-->
